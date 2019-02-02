@@ -1,4 +1,4 @@
-package Clase3
+package class_01_25
 import org.junit.Assert.assertEquals
 import org.junit.Test
 
