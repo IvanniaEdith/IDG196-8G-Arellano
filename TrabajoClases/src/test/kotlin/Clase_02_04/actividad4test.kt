@@ -21,6 +21,20 @@ class actividad4test {
     }
 
     @Test
+    fun `return false when one string is different`(){
+        val string = "(7]"
+        val expected = false
+        Assert.assertFalse(actividad4.isAValidExpression(string))
+    }
+
+    @Test
+    fun `return false when string repeat signs`(){
+        val string = "((("
+        val expected = false
+        Assert.assertFalse(actividad4.isAValidExpression(string))
+    }
+
+    @Test
     fun `return true when string is organized`(){
         val string = "()[]"
         val expected = true
