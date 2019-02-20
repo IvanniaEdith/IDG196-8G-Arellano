@@ -5,5 +5,5 @@ data class Customer(
     val email: String
 ) {
     val payments: ArrayList<Payment> = arrayListOf()
-    var address: String = ""
+    var ShoppingCart: ShoppingCart = ShoppingCart ("")
 }
