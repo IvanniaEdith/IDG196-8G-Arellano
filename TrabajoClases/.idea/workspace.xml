@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="9fe82092-437d-45a1-942c-49b0a99ddcaf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Clase_02_11/Customer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Clase_02_11/Customer.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Clase_02_11/Product.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Clase_02_11/Product.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Clase_02_11/ShoppingCart.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Clase_02_11/ShoppingCart.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Clase_02_11/ShoppingCartBehavior.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Clase_02_11/ShoppingCartBehavior.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/kotlin/Clase_02_11/ShoppingCartTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/kotlin/Clase_02_11/ShoppingCartTest.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -34,26 +36,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/Clase_02_11/ShoppingCartBehavior.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/Clase_02_11/Customer.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="54" lean-forward="true" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+            <state relative-caret-position="187">
+              <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/kotlin/Clase_02_11/ShoppingCartTest.kt">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/Clase_02_11/Product.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+              <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/Clase_02_11/Customer.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/kotlin/Clase_02_11/ShoppingCartTest.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="31" column="69" lean-forward="true" selection-start-line="31" selection-start-column="69" selection-end-line="31" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -71,7 +82,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/Clase_02_11/ShoppingCart.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+              <caret line="3" column="52" lean-forward="true" selection-start-line="3" selection-start-column="52" selection-end-line="4" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -108,22 +119,21 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/Clase_02_11/Usuario.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/Clase_02_11/Payment.kt" />
         <option value="$PROJECT_DIR$/src/test/kotlin/Clase_02_11/ShoppingCarTest.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/Clase_02_11/Product.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/Clase_02_11/ShoppingCar.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/Clase_02_11/ShoppingCarBehavior.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/Clase_02_11/ShoppingCartBehavior.kt" />
-        <option value="$PROJECT_DIR$/src/test/kotlin/Clase_02_11/ShoppingCartTest.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/Clase_02_11/CustomerBehavior.kt" />
         <option value="$PROJECT_DIR$/src/test/kotlin/Clase_02_11/actividad5test.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/Clase_02_11/Customer.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/Clase_02_11/Product.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/Clase_02_11/ShoppingCart.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/Clase_02_11/ShoppingCartBehavior.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/Clase_02_11/ShoppingCartTest.kt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-15" />
-    <option name="y" value="-15" />
-    <option name="width" value="3500" />
+    <option name="x" value="1400" />
+    <option name="width" value="2390" />
     <option name="height" value="1960" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -190,14 +200,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550537890630" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550885168406" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../IDG196-8G-Arambula/IDG196-8G" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -216,34 +226,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.actividad4test">
-    <configuration name="actividad2test.TestReverseInt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ShoppingCartTest.can't remove a product that does not exist">
+    <configuration name="ShoppingCartTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="xm.ude.sytec@onallera.ainnavi.IDG196-G8-Arellano.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Clase_01_28.*" />
+          <option name="PATTERN" value="Clase_02_11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Clase_01_28" />
-      <option name="MAIN_CLASS_NAME" value="Clase_01_28.actividad2test" />
-      <option name="METHOD_NAME" value="TestReverseInt" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="Clase_02_11" />
+      <option name="MAIN_CLASS_NAME" value="Clase_02_11.ShoppingCartTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="actividad2test.TestifReverseNegativeInt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ShoppingCartTest.can't remove a product that does not exist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="xm.ude.sytec@onallera.ainnavi.IDG196-G8-Arellano.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Clase_01_28.*" />
+          <option name="PATTERN" value="Clase_02_11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Clase_01_28" />
-      <option name="MAIN_CLASS_NAME" value="Clase_01_28.actividad2test" />
-      <option name="METHOD_NAME" value="TestifReverseNegativeInt" />
+      <option name="PACKAGE_NAME" value="Clase_02_11" />
+      <option name="MAIN_CLASS_NAME" value="Clase_02_11.ShoppingCartTest" />
+      <option name="METHOD_NAME" value="can't remove a product that does not exist" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -297,11 +306,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ShoppingCartTest.can't remove a product that does not exist" />
+        <item itemvalue="JUnit.ShoppingCartTest" />
         <item itemvalue="JUnit.actividad4test" />
         <item itemvalue="JUnit.actividad3test" />
         <item itemvalue="JUnit.actividad3test.return false when number is negative" />
-        <item itemvalue="JUnit.actividad2test.TestifReverseNegativeInt" />
-        <item itemvalue="JUnit.actividad2test.TestReverseInt" />
       </list>
     </recent_temporary>
   </component>
@@ -326,6 +335,9 @@
       <workItem from="1550018908810" duration="8000" />
       <workItem from="1550535359864" duration="2657000" />
       <workItem from="1550542366252" duration="3168000" />
+      <workItem from="1550621582678" duration="123000" />
+      <workItem from="1550872200274" duration="587000" />
+      <workItem from="1550884608018" duration="530000" />
     </task>
     <servers />
   </component>
@@ -362,12 +374,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26337000" />
+    <option name="totallyTimeSpent" value="27608000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25821596" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27230048" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -382,7 +395,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32874617" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32956153" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32956153" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32956153" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
@@ -490,10 +503,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/kotlin/Clase_02_11/ShoppingCartTest.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Clase_02_11/Customer.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        <state relative-caret-position="119">
+          <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
         </state>
       </provider>
     </entry>
@@ -504,31 +517,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Clase_02_11/ShoppingCartBehavior.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Clase_02_11/Product.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="85">
+          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/Clase_02_11/ShoppingCart.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          <caret line="3" column="52" lean-forward="true" selection-start-line="3" selection-start-column="52" selection-end-line="4" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Clase_02_11/Product.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Clase_02_11/ShoppingCartBehavior.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        <state relative-caret-position="187">
+          <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Clase_02_11/Customer.kt">
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/Clase_02_11/ShoppingCartTest.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="54" lean-forward="true" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+        <state relative-caret-position="493">
+          <caret line="31" column="69" lean-forward="true" selection-start-line="31" selection-start-column="69" selection-end-line="31" selection-end-column="69" />
         </state>
       </provider>
     </entry>
